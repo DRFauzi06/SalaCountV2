@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SalaCount</string>
+    <string name="title_home">Hitung</string>
+    <string name="title_main">Menu Utama</string>
+    <string name="title_dashboard">History</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title">Hitung Gaji</string>
+    <string name="title2">Riwayat</string>
+    <string name="spinner_title">Pilih Baju</string>
+    <string name="Jumlah">Jumlah</string>
+    <string name="Tambah">Tambah</string>
+    <string name="Pekerja">Pekerja</string>
+    <string name="No">No</string>
+    <string name="Baju">Baju</string>
+    <string name="Harga">Harga</string>
+
+    <string name="Subtotal"></string>
+    <string name="Total">Total</string>
+    <string name="submit">Submit</string>
+    <string name="a"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
